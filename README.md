@@ -4,7 +4,7 @@ A LinkedIn-style web app built using **HTML, CSS, PHP, and MySQL**.
 It allows users to sign up, log in, and post updates visible on a public feed.
 
 ### 🧰 Tech Stack
-- Frontend: HTML, CSS
+- Frontend: HTML, CSS , JS
 - Backend: PHP
 - Database: MySQL (via XAMPP)
 
