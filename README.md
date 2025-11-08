@@ -18,8 +18,9 @@ It allows users to sign up, log in, and post updates visible on a public feed.
 2. Start **Apache** and **MySQL** in XAMPP
 3. Create a database named `linkedin_clone`
 4. Import the `users` and `posts` tables from the SQL queries
-5. Open [http://localhost/linkedin-clone](http://localhost/linkedin-clone)
+5. Open http://linkedinfeed.xo.je/login.php
+   
 
 ---
 
-💡 Developed by Valtheti Trimurthulu for Full Stack Developer Internship Assignment /
+💡 Developed by Shubham Jamadade for Full Stack Developer Internship Assignment /
